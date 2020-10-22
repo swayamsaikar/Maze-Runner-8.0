@@ -651,7 +651,7 @@ function draw() {
     fill("magenta");
     strokeWeight(1.5);
     stroke("black");
-    text("1. Welcome Ninja, you quest is to find the Golden Idol", 45, 200);
+    text("1. Welcome Ninja, your quest is to find the Golden Idol", 45, 200);
     text("2. Along the way, gather coins and avoid obstacles ", 45, 240);
     text("3. To jump press spaceBar,to slide press the down arrow ", 45, 280);
     text("4. To shoot the obstacle while standing , press S key ", 45, 320);
